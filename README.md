@@ -6,5 +6,7 @@
 # python3 -m pip install --upgrade Pillow
 # 2. Add .jpg images downloaded from Flickr to subfolder ./images from where the script is stored
 # 3. git clone https://github.com/yuno19/v19exif.git
-# 4. cd exif 
-# 5. python3 yuno.py
+# 4. add images file on the directory
+# 5. cd exif 
+# 6. python3 yuno.py
+
